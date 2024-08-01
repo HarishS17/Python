@@ -1,4 +1,4 @@
-from easy_food_online import functions as f
+import functions as f
 
 
 class EasyFood:
